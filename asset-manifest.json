@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adapt-table/static/css/main.960fb6bc.css",
+    "main.js": "/adapt-table/static/js/main.a7760e50.js",
+    "static/js/453.b0461da4.chunk.js": "/adapt-table/static/js/453.b0461da4.chunk.js",
+    "index.html": "/adapt-table/index.html",
+    "main.960fb6bc.css.map": "/adapt-table/static/css/main.960fb6bc.css.map",
+    "main.a7760e50.js.map": "/adapt-table/static/js/main.a7760e50.js.map",
+    "453.b0461da4.chunk.js.map": "/adapt-table/static/js/453.b0461da4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.960fb6bc.css",
+    "static/js/main.a7760e50.js"
+  ]
+}
